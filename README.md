@@ -1,8 +1,10 @@
+Forked directly from https://github.com/idbrii/godot-kenney-spritesheet in order to get it working on 4.7
+
 # Kenney Spritesheet Importer
 
-[![Godot Version](https://img.shields.io/badge/Godot-4.4-blue)](https://godotengine.org/download/)
+[![Godot Version](https://img.shields.io/badge/Godot-4.7-blue)](https://godotengine.org/download/)
 
-Supports Godot 4.1/4.2/4.4
+Supports Godot 4.7 (and maybe earlier versions?)
 
 [Kenny](https://kenney.nl/) has lots of sprite assets and many come with a spritesheet and an [Sparrow Texture Atlas XML Format](https://wiki.sparrow-framework.org/manual/textures_and_images) file that lists the locations of the sprites in that spritesheet. This plugin will take a spritesheet and generate:
 * A folder full of AtlasTextures for the sprites in the spritesheet.
